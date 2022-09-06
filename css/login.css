@@ -1,0 +1,50 @@
+
+*
+{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+
+#myhead
+{
+	font-family: 'Lobster', cursive;
+}
+
+
+ul li a
+{
+	color: white !important;
+	font-weight: bold;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	transition: all 0.5s ease-in;
+}
+
+ul li a:hover
+{
+	color: deepskyblue !important;
+	font-size: 14px ;
+}
+
+
+#button
+{
+	border: 1px solid white ;
+	border-radius: 45px;
+	padding: 12px 12px 12px 12px;
+	
+	background: deepskyblue !important;
+
+}
+#button:hover
+{
+	background-color: white !important;
+	
+}
+
+/*=======================================
+       form end
+==========================================*/
